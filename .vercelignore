@@ -1,0 +1,6 @@
+/vendor
+/node_modules
+/_node_backup
+/tests
+.git
+.env
